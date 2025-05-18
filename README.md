@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning [**Laravel**](https://laravel.com/) Framework and [**Filament**](https://filamentphp.com/)
+
+![Enjoy](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjBpYWR3YXVvOTQ3NGN2NThncXYzZWxpempsNWxrMTdmenB4Yzl2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w7CP59oLYw6PK/giphy.gif)
